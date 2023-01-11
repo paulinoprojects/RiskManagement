@@ -50,7 +50,7 @@
 
 #### Quantitative Risk Assessment: Risk by the Numbers
 Quantitative assessments use simple techniques (like counting possible occurrences, or estimating how often they might occur) along with estimates of the typical cost of each loss:
-- <b>Single loss expectancy (SLE):</b> Usually measured in monetary terms, SLE is the total cost you can reasonably expect should the risk event occur. It includes immediate and delayed costs, direct and indirect costs, costs of repairs, and restoration. In some circumstances, it also includes lost opportunity costs, or lost revenues due to customers needing or choosing to go elsewhere.
+- <b>Single loss expectancy (SLE):</b> USLE is the total cost you can reasonably expect should the risk event occur such as immediate and delayed costs, direct and indirect costs, costs of repairs, and restoration.
 - <b>Annual rate of occurrence (ARO):</b> ARO is an estimate of how often during a single year this event could reasonably be expected to occur.
 - <b>Annual loss expectancy (ALE):</b> ALE is the total expected losses for a given year and is determined by multiplying the SLE by the ARO.
 - <b>Safeguard value:</b> This is the estimated cost to implement and operate the chosen risk mitigation control. You cannot know this until you’ve chosen a risk control or countermeasure and an implementation plan for it; we’ll cover that in the next chapter.
