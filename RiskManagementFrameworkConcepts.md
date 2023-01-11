@@ -44,3 +44,8 @@
 - <b>Acting</b> involves making decisions and taking corrective or amplifying actions based on what the checking activities revealed. 
   - A revised plan may be needed, or that the existing plan is working fine but some individual processes need some fine-tuning to achieve better results.
   
+## Risk Assessment
+- Risk assessment processes typically summarize their findings in some form of BIA. This relates costs (in money, time, and resources) to the organization that could be faced if the risk events do occur.
+- Take each risk and assesses how frequently it might occur. The expected cost of these risks (their costs multiplied by their frequencies and probabilities of occurrences, across the organization) represents the anticipated financial impact of that risk, over time; this is a key input to making risk mitigation or control choices.
+
+#### Quantitative Risk Assessment: Risk by the Numbers
