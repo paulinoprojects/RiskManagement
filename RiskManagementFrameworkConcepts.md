@@ -61,5 +61,9 @@ Quantitative assessments use simple techniques (like counting possible occurrenc
 Qualitative assessments focus on an inherent quality, aspect, or characteristic of the risk as it relates to the outcome(s) of a risk occurrence. “Loss of business” could be losing a few customers, losing many customers, or closing the doors and going out of business entirely!
 
 ## The Risk Register
-A central repository or knowledge bank of the risks that have been identified in its business and business process systems. 
-This register should be a living document, constantly refreshed as the company moves from risk identification through mitigation to the “new normal” of operations after instituting risk controls or countermeasures.
+- A central repository or knowledge bank of the risks that have been identified in its business and business process systems. 
+- This register should be a living document, constantly refreshed as the company moves from risk identification through mitigation to the “new normal” of operations after instituting risk controls or countermeasures.
+- Choices for limiting or containing damage: Deter, Detect,Prevent, Avoid, Accept(ignore)
+
+
+
