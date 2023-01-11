@@ -55,4 +55,11 @@ Quantitative assessments use simple techniques (like counting possible occurrenc
 - <b>Annual loss expectancy (ALE):</b> ALE is the total expected losses for a given year and is determined by multiplying the SLE by the ARO.
 - <b>Safeguard value:</b> This is the estimated cost to implement and operate the chosen risk mitigation control. You cannot know this until you’ve chosen a risk control or countermeasure and an implementation plan for it; we’ll cover that in the next chapter.
 - <b>Recovery time objective:</b> RTO is the amount of time in which system functionality or ability to perform the business process must be back in operation.
-- <b>Recovery point objective:</b> RPO measures the data loss that is tolerable to the organization
+- <b>Recovery point objective:</b> RPO measures the data loss that is tolerable to the organization.
+
+#### Qualitative Risk Assessment: Risk by Characteristics
+Qualitative assessments focus on an inherent quality, aspect, or characteristic of the risk as it relates to the outcome(s) of a risk occurrence. “Loss of business” could be losing a few customers, losing many customers, or closing the doors and going out of business entirely!
+
+## The Risk Register
+A central repository or knowledge bank of the risks that have been identified in its business and business process systems. 
+This register should be a living document, constantly refreshed as the company moves from risk identification through mitigation to the “new normal” of operations after instituting risk controls or countermeasures.
