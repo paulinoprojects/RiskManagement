@@ -12,7 +12,7 @@
 ![RMF Areas of concern](https://user-images.githubusercontent.com/111991325/211717187-3df9d618-a5e9-4c05-9ae4-d260e0cf62c7.jpg)
 
 ## Risk Management Framework  (RMF)
-#### The RMF goes on by specifying 7 steps of activities for information risk management:
+#### The RMF 7 Steps of Activities for Information Risk Management:
 1. Prepare
 2. Categorize
 3. Select
