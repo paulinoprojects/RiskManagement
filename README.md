@@ -1,4 +1,4 @@
-# RiskManagement & Mitigation
+
 ## 4 Faces of Risk
   - <b>Outcomes-Based Risk:</b>
     - This face of risk looks at why people or organizations do what they do or set out to achieve their goals or objectives.
