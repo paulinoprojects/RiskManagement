@@ -54,3 +54,5 @@ Quantitative assessments use simple techniques (like counting possible occurrenc
 - <b>Annual rate of occurrence (ARO):</b> ARO is an estimate of how often during a single year this event could reasonably be expected to occur.
 - <b>Annual loss expectancy (ALE):</b> ALE is the total expected losses for a given year and is determined by multiplying the SLE by the ARO.
 - <b>Safeguard value:</b> This is the estimated cost to implement and operate the chosen risk mitigation control. You cannot know this until you’ve chosen a risk control or countermeasure and an implementation plan for it; we’ll cover that in the next chapter.
+- <b>Recovery time objective:</b> RTO is the amount of time in which system functionality or ability to perform the business process must be back in operation.
+- <b>Recovery point objective:</b> RPO measures the data loss that is tolerable to the organization
