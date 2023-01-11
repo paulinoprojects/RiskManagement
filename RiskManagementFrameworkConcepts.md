@@ -65,5 +65,14 @@ Qualitative assessments focus on an inherent quality, aspect, or characteristic 
 - This register should be a living document, constantly refreshed as the company moves from risk identification through mitigation to the “new normal” of operations after instituting risk controls or countermeasures.
 - Choices for limiting or containing damage: Deter, Detect,Prevent, Avoid, Accept(ignore)
 
+## Business Impact Analysis (BIA)
+- Risk Management (all of this) comes together to form the BIA - A consolidated statement of how different risks impacts prioiritized goals. 
+- BIA reflects a combination of due care and due diligence in that it combines “how we do business” with “how we know how well we’re doing it.”
+- BIA needs to capture and how it has to present it to achieve a mix of purposes:
+    - BIAs should inform, guide, and shape risk management decisions by senior leadership.
+    - BIAs should provide the insight to choose a balanced, prudent mix of risk mitigation tactics and techniques.
+    - BIAs should guide the organization in accepting residual risk to goals, objectives, processes, or assets in areas where this is appropriate.
+    - BIAs may be required to meet external stakeholder needs, such as for insurance, financial, regulatory, or other compliance purposes.
+
 
 
