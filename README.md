@@ -34,3 +34,4 @@ From the inner, most vital center of the organization on out, you might see thes
   - Degrade an attacker’s capabilities by wearing them down (attrition), stalling them (barricades, obstacles), or destroying their attack forces.
   - Defeat the attack by sufficiently degrading deflecting, or destroying the attacking force’s units, weapons, and capabilities.
  
+ ### [Next Topic: Risk Management Framework](https://github.com/paulinoprojects/RiskManagement/blob/main/RiskManagementFrameworkConcepts.md)
